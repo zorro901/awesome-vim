@@ -22,7 +22,6 @@ Plugins organized by section and ordered alphabetically.
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 * [Learning Vim (Chinese)](https://github.com/dofy/learn-vim)
 * [Vim Adventures](http://vim-adventures.com/)
-* [Vim Doctor](https://github.com/adembudak/vim-doctor) (Link is broken or repository not accessible)
 * [Vim Genius](http://www.vimgenius.com/)
 * [Vim Tips](http://zzapper.co.uk/vimtips.html)
 
@@ -55,8 +54,6 @@ Plugins organized by section and ordered alphabetically.
 * [DoGe](https://github.com/kkoomen/vim-doge)
 * [EditorConfig](https://github.com/editorconfig/editorconfig-vim)
 * [Gundo](https://github.com/sjl/gundo.vim)
-* [IndentGuides](https://github.com/nathanaelkane/vim-indent-guides) (Link is broken or repository not accessible)
-* [NerdCommenter](https://github.com/scrooloose/nerdcommenter)
 * [Repeat](https://github.com/tpope/vim-repeat)
 * [Tabular](https://github.com/godlygeek/tabular)
 * [Targets](https://github.com/wellle/targets.vim)
@@ -139,7 +136,6 @@ Plugins organized by section and ordered alphabetically.
 
 ### Markdown
 
-* [vim-instant-markdown](https://github.com/suan/vim-instant-markdown)
 * [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)
 * [mkdx](https://github.com/SidOfc/mkdx)
 
