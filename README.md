@@ -34,8 +34,6 @@ Plugins organized by section and ordered alphabetically.
 ## Colors
 
 * [Apprentice](https://github.com/romainl/Apprentice)
-* [Base16](https://github.com/chriskempson/base16-vim/)
-* [Jellybeans](https://github.com/nanotech/jellybeans.vim)
 * [onedark](https://github.com/joshdick/onedark.vim)
 * [simple-dark](https://github.com/tek256/simple-dark)
 
@@ -48,13 +46,10 @@ Plugins organized by section and ordered alphabetically.
 * [DelimitMate](https://github.com/Raimondi/delimitMate)
 * [DoGe](https://github.com/kkoomen/vim-doge)
 * [EditorConfig](https://github.com/editorconfig/editorconfig-vim)
-* [Gundo](https://github.com/sjl/gundo.vim)
 * [Repeat](https://github.com/tpope/vim-repeat)
 * [Tabular](https://github.com/godlygeek/tabular)
 * [Targets](https://github.com/wellle/targets.vim)
 * [TComment](https://github.com/tomtom/tcomment_vim)
-* [TextobjWordColumn](https://github.com/coderifous/textobj-word-column.vim)
-* [VisualSplit](https://github.com/wellle/visual-split.vim)
 
 ### File Management
 
@@ -76,10 +71,7 @@ Plugins organized by section and ordered alphabetically.
 
 ### Searching
 
-* [Ack](https://github.com/mileszs/ack.vim)
 * [Any-jump.vim](https://github.com/pechorin/any-jump.vim)
-* [CtrlP](https://github.com/ctrlpvim/ctrlp.vim)
-* [CtrlSF](https://github.com/dyng/ctrlsf.vim)
 * [FlyGrep](https://github.com/wsdjeg/FlyGrep.vim)
 * [fzf](https://github.com/junegunn/fzf#as-vim-pluginc) ([highly recommended](https://github.com/junegunn/fzf#tips) to use [fd](https://github.com/sharkdp/fd) and [ripgrep](https://github.com/BurntSushi/ripgrep))
 * [MRU](https://github.com/yegappan/mru)
@@ -105,14 +97,11 @@ Plugins organized by section and ordered alphabetically.
 
 * [Asynchronous Lint Engine](https://github.com/w0rp/ale)
 * [Coc](https://github.com/neoclide/coc.nvim)
-* [Neocomplete](https://github.com/Shougo/neocomplete.vim)
-* [TmuxComplete](https://github.com/wellle/tmux-complete.vim)
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe)
 
 
 ## Language Specific
 
-* [Codi](https://github.com/metakirby5/codi.vim)
 
 ### Golang
 
@@ -127,7 +116,6 @@ Plugins organized by section and ordered alphabetically.
 
 ### Javascript
 
-* [JavascriptLibrariesSyntax](https://github.com/othree/javascript-libraries-syntax.vim)
 
 ### Markdown
 
@@ -151,13 +139,11 @@ Plugins organized by section and ordered alphabetically.
 
 ### XML
 
-* [xmledit](https://github.com/sukima/xmledit/)
 
 ## Framework Specific
 
 ### Django
 
-* [Pony](https://github.com/jmcomets/vim-pony/)
 
 ### Rails
 
