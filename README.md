@@ -20,7 +20,6 @@ Plugins organized by section and ordered alphabetically.
 
 * [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
-* [Learning Vim (Chinese)](https://github.com/dofy/learn-vim)
 * [Vim Adventures](http://vim-adventures.com/)
 * [Vim Genius](http://www.vimgenius.com/)
 * [Vim Tips](http://zzapper.co.uk/vimtips.html)
@@ -28,12 +27,8 @@ Plugins organized by section and ordered alphabetically.
 
 ## Plugin Management
 
-* [Dein.vim](https://github.com/Shougo/dein.vim)
 * [lazy.nvim](https://github.com/folke/lazy.nvim)
-* [Neobundle](https://github.com/Shougo/neobundle.vim)
-* [VAM](https://github.com/MarcWeber/vim-addon-manager)
 * [Vim-plug](https://github.com/junegunn/vim-plug)
-* [Vundle](https://github.com/gmarik/Vundle.vim)
 
 
 ## Colors
