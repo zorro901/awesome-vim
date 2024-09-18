@@ -73,7 +73,7 @@ Plugins organized by section and ordered alphabetically.
 
 ### Interface
 
-* [Airline](https://github.com/bling/vim-airline) + [Airline Themes](https://github.com/vim-airline/vim-airline-themes) (Link is broken or repository not accessible)
+* [Airline](https://github.com/bling/vim-airline) + [Airline Themes](https://github.com/vim-airline/vim-airline-themes)
 * [vim-lastplace](https://github.com/farmergreg/vim-lastplace)
 * [vim-quickui](https://github.com/skywind3000/vim-quickui)
 * [Signify](https://github.com/mhinz/vim-signify)
